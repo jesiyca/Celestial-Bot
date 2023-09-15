@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "@napi-rs/canvas": "^0.1.41",
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.13.0",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.1"
+  },
+  "name": "celestial-bot",
+  "version": "1.0.0",
+  "main": "app/src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "n_n#0009",
+  "license": "ISC",
+  "description": ""
+}
