@@ -17,7 +17,7 @@ client.login(client.config.token).then(() => {
 	loadEvents(client);
 	loadCommands(client);
 
-	client.user.setActivity('n_n#0009', {
+	client.user.setActivity('n_n', {
 		type: ActivityType.Listening
 	})
 });
